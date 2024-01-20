@@ -1,0 +1,83 @@
+<html>
+	<head>
+		<link href="style.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+		<title>Brady Roque</title>
+	</head>
+
+	<body>
+		<header id="header">
+			<!-- resume header with your name and title -->
+			<h1>Brady Roque</h1>
+			<hr>
+			Cybersecurity & Technology Advocate
+			<hr>
+		</header>
+		<main>
+			<article id="mainLeft">
+				<section>
+					<h2>CONTACT</h2>
+                    <!-- contact info including social media -->
+                    <p>
+                        <i class="fab fa-github" aria-hidden="true"></i>
+                        <a href="github.com/mk-g1">mk-g1</a>
+                    </p>
+                    <p>
+                        <i class="fab fa-linkedin" aria-hidden="true"></i>
+                        <a href="linkedin.com/in/bradyroque">bradyroque</a>
+                    </p>
+                    <p>
+                        <i class="fa fa-envelope" aria-hidden="true"></i>
+                        <a href="mailto:your-email@example.com">bradyroque.br@gmail.com</a>
+                    </p>
+				</section>
+				<section>
+					<h2>SKILLS</h2>
+					<!-- your skills -->
+                    <p>Office Suite Help Desk, Ticketing System, Azure, Firewalls, 
+                        Virtual Machines, Virtual Networks, 
+                        Cloud Computing, File Permissions, Windows 10, SIEM, Linux.</p>
+				</section>
+				<section>
+					<h2>EDUCATION</h2>
+                    <!-- your education -->
+                    <h3>Associate of Arts Business Administration</h3> 
+                    <p>Miami Dade College | Dec 2023</p> 
+                    <h3>BBA Management Information Systems (in progress)</h3>
+                    <p>Florida International University | Dec 2025 </p>
+					
+				</section>            
+			</article>
+			<article id="mainRight">
+				<section>
+					<h2>Certifications</h2>
+					<!-- about you -->
+                    <p>CompTIA Security +</p>
+                    <p>Health & Life Insurance License</p>
+				</section>
+				<section>
+					<h2>WORK EXPERIENCE</h2>
+                    <!-- your work experience -->
+                    <h3>Health Insurance Advisor</h3>
+                    <p>Sunshine Life & Health Advisor | Nov 2021- Present </p>  
+                    <ul>
+                        <li>Solid track record of providing exceptional customer service 
+                            and guiding clients through complex plans and coverage options.</li>
+                        <li>Proficient in analyzing and interpreting policy documents, ensuring accurate and timely claims processing,
+                             and resolving client inquiries to ensure their satisfaction.</li>
+                </ul>
+                    <h3>IT Support Specialist</h3>
+                    <p>Sunshine Life & Health Advisor | Oct 2020 - Oct 2021</p> 
+                    <ul>
+                        <li>Proficient in providing technical training to agents, ensuring they can effectively 
+                            leverage IT tools and systems for improved productivity and adherence to data security and privacy protocols.</li>
+                        <li>Delivered training and technical guidance to agents, empowering them to effectively utilize 
+                            the installed software for seamless workflow and improved productivity.</li>
+                </ul>
+				</section>
+			</article>
+		</main>
+	</body>
+    
+</html>
+
